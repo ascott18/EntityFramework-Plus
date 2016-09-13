@@ -8,7 +8,6 @@
   },
   "compilationOptions": {
     "define": [ "EFCORE", "NET45", "FULL" ],
-    "keyFile": "C:\\Users\\Jonathan\\OneDrive\\Documents\\Release\\zzzproject.snk"
   },
   "dependencies": {
     "Microsoft.EntityFrameworkCore.Relational": "1.0.0",
